@@ -11,9 +11,9 @@ Grupo de carpetas standar para llevar de forma ordenada tu proyecto data science
 ├── notebooks/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- Cuaderno Jupyter (resumen y concatenador de .py)  
 
 ├── src/  
-│   ├── clean_scripts/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- Scripts para cargar, limpiar, transformar y procesar datos  
-│   ├── features_scripts/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- Scripts para generar características a partir de los datos  
-│   ├── model_scripts/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- Modelos de aprendizaje automático y scripts para entrenarlos y evaluarlos  
+│   ├── clean_scripts/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- Scripts para cargar, limpiar, transformar y procesar datos  
+│   ├── features_scripts/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- Scripts para generar características a partir de los datos  
+│   ├── model_scripts/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- Modelos de aprendizaje automático y scripts para entrenarlos y evaluarlos  
 │   └── visualization_scripts/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- Scripts para crear visualizaciones de datos  
 
 ├── reports/                               <- Resultados generados (graficos, informes, etc)  
