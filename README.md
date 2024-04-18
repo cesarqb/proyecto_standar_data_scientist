@@ -1,12 +1,12 @@
 # proyecto_standar_data_scientist
 
-Grupo de carpetas standar para llevar de forma ordenada tu proyecto data science
+Grupo de carpetas standar para llevar de forma ordenada tu proyecto data science  
 
-├── data/
-│   ├── raw/                               <- Data cruda, datos descargados sin modificar
-│   ├── external/                          <- Data de fuentes de 3eras partes
-│   ├── interim/                           <- Datos intermedios que han sido transformados
-│   └── processed/                         <- Datos procesados, que serán usados para el modelo
+├── data/  
+│   ├── raw/                               <- Data cruda, datos descargados sin modificar  
+│   ├── external/                          <- Data de fuentes de 3eras partes  
+│   ├── interim/                           <- Datos intermedios que han sido transformados  
+│   └── processed/                         <- Datos procesados, que serán usados para el modelo  
 
 ├── notebooks/                             <- Cuaderno Jupyter (resumen y concatenador de .py)
 
