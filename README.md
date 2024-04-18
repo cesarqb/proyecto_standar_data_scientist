@@ -3,10 +3,10 @@
 Grupo de carpetas standar para llevar de forma ordenada tu proyecto data science  
 
 ├── data/  
-│   ├── raw/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- Data cruda, datos descargados sin modificar  
-│   ├── external/&nbsp;&nbsp;&nbsp;&nbsp;<- Data de fuentes de 3eras partes  
-│   ├── interim/                            <- Datos intermedios que han sido transformados  
-│   └── processed/                          <- Datos procesados, que serán usados para el modelo  
+│   ├── raw/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- Data cruda, datos descargados sin modificar  
+│   ├── external/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- Data de fuentes de 3eras partes  
+│   ├── interim/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- Datos intermedios que han sido transformados  
+│   └── processed/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<- Datos procesados, que serán usados para el modelo  
 
 ├── notebooks/                             <- Cuaderno Jupyter (resumen y concatenador de .py)  
 
